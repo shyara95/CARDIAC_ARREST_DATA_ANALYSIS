@@ -24,7 +24,16 @@ This project involves exploratory data analysis (EDA) on a cardiac arrest datase
 | `oldpeak`  | ST depression after exercise                |
 | `slope`    | Slope of the ST segment                     |
 | `ca`       | No. of major vessels colored by fluoroscopy |
-| `thal`     | Thalassemia type                            |
+| `thal`     | Thalassemia type                            |  
+
+**📊 Analysis Performed**  
+✅ Basic Statistical Analysis:  
+* Central tendency (mean, median)
+* Outlier detection
+* No missing values found
+
+
+
 
 
 
