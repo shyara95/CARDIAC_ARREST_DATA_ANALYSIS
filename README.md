@@ -32,6 +32,21 @@ This project involves exploratory data analysis (EDA) on a cardiac arrest datase
 * Outlier detection
 * No missing values found
 
+📈 Visualizations:
+* Distribution Plots: Age, Cholesterol, Max Heart Rate
+* Correlation Heatmap: Relationships among features
+* Boxplots & Countplots: Compare values across target (heart disease presence)
+
+🔍 Key Insights  
+* Max Heart Rate (thalach) shows strong negative correlation with heart disease.
+* Chest Pain Type (cp) positively correlates with heart disease risk.
+* Exercise-Induced Angina (exang) is a strong risk factor.
+* Cholesterol has a wide range and noticeable outliers.
+
+📦 Technologies Used:Python,Pandas,Matplotlib,Seaborn,Google Colab (Jupyter Notebook)  
+
+
+
 
 
 
