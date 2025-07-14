@@ -8,6 +8,7 @@ This project involves exploratory data analysis (EDA) on a cardiac arrest datase
 * Target Variable: target  
    1. indicates presence of heart disease
    2. 0 indicates absence of heart disease
+
  🔑 Key Features:
   | Feature    | Description                                 |
 | ---------- | ------------------------------------------- |
