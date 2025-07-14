@@ -1,2 +1,1 @@
 # shyara-s-portfolio
-Analyst
