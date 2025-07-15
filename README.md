@@ -2,14 +2,14 @@
 This project involves exploratory data analysis (EDA) on a cardiac arrest dataset to uncover patterns and insights related to heart disease. The goal is to understand which features are most associated with heart disease, using visualization and statistical techniques. 
 
 
-📁 Dataset Overview  
+1. Dataset Overview  
 * Total Records: 1,025  
 * Features: 14 (including target variable)  
 * Target Variable: target  
    1. indicates presence of heart disease
    2. 0 indicates absence of heart disease
 
- 🔑 Key Features:
+ 2.  Key Features:
   | Feature    | Description                                 |
 | ---------- | ------------------------------------------- |
 | `age`      | Age of the patient                          |
@@ -27,23 +27,23 @@ This project involves exploratory data analysis (EDA) on a cardiac arrest datase
 | `thal`     | Thalassemia type                            |  
 
 **📊 Analysis Performed**  
-✅ Basic Statistical Analysis:  
+Basic Statistical Analysis:  
 * Central tendency (mean, median)
 * Outlier detection
 * No missing values found
 
-📈 Visualizations:
+Visualizations:
 * Distribution Plots: Age, Cholesterol, Max Heart Rate
 * Correlation Heatmap: Relationships among features
 * Boxplots & Countplots: Compare values across target (heart disease presence)
 
-🔍 Key Insights  
+Key Insights  
 * Max Heart Rate (thalach) shows strong negative correlation with heart disease.
 * Chest Pain Type (cp) positively correlates with heart disease risk.
 * Exercise-Induced Angina (exang) is a strong risk factor.
 * Cholesterol has a wide range and noticeable outliers.
 
-📦 Technologies Used:Python,Pandas,Matplotlib,Seaborn,Google Colab (Jupyter Notebook)  
+Technologies Used:Python,Pandas,Matplotlib,Seaborn,Google Colab (Jupyter Notebook)  
 
 
 
